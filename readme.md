@@ -15,9 +15,9 @@ Como Dev front end ter uma paleta de cores na hora de estilizar os projetos faci
 Ao Clicar no botão gerar nova paleta, vai gerando as paletas de cores com seus respectivos códigos.
 
 ## 🚀A página👌
-<img src="" alt="">
+<img src="./src/css/img/paletaDeCores.gif" alt="">
 
-<a href=" target= "-blank">Acesse a página online</a>
+<a href="https://charming-croquembouche-a7a4ec.netlify.app/" target= "-blank">Acesse a página online</a>
 
 ## 🧞‍♀️ Desenvolvedora
 
